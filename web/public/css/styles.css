@@ -215,7 +215,7 @@ footer article{
 
 footer i{      
     color: #1259c3;
-    font-size: 2rem;
+    font-size: 2em;
     padding: 10px;
     
     
@@ -392,3 +392,5 @@ input:invalid {
         top: 19px;
     }
 }
+
+
