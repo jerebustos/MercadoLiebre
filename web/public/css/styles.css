@@ -132,7 +132,6 @@ article div.main-article{
 }
 
 .price{
-    font-size: 18px;
     width: 30%;
     
 }
@@ -391,7 +390,8 @@ input:invalid {
         margin-top: 0px;
     }
     .logo{
-        width: 300px;
+        width: 250px;
+        margin-top: 20px;
     }
     .buscador {
         margin: 25px;
@@ -411,12 +411,10 @@ input:invalid {
  
     .discount{
         right: -17px;
-        position: absolute
+        position: relative
     }
-    .price{
-        position:absolute;
-        top: 19px;
-    }
+    
+    
 
     header{
         margin-top: -20px
