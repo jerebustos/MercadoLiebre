@@ -400,7 +400,7 @@ input:invalid {
     .barra{
         display: inline-block;
         width: 300px;
-        height: 35px;
+        height: 39px;
     }
 
     .login, .register{
